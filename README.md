@@ -1,3 +1,3 @@
 # Tecnicas-Prgramação
-Nome: Lucas Almir da Silva Lima
+Material das aulas técnicas de programação
 
