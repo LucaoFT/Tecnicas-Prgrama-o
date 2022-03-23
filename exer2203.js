@@ -34,22 +34,25 @@ console.log("Exercicío 3");
 var tab;
 for(var i=0; i<=10;i++){
     console.log(1 + ' x ' + i + ' = ' + 1 * i);
-    \n; 
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 2 * i);
-    \n; 
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 3 * i);
-    \n; 
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 4 * i);
-    \n; 
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 5 * i);
-    \n; 
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 6 * i);
-    \n; 
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 7 * i);
-    \n; 
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 8 * i);
-    \n;
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 9 * i);
-    \n;
+    console.log("");
     console.log(1 + ' x ' + i + ' = ' + 10 * i);
-}   
+} 
+
+/* Faça um programa que calcule o preçode um produto, calcule e mostre o novo preço sabendo-se que o preço atual é R$1500 e este sofreu um desconto de 10%.
+*/
